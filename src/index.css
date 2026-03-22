@@ -281,3 +281,37 @@ color: #4B5563;
     background-color: #F3F4F6;
     color: #0D0D0D;
 }
+
+.buttons{
+    width: 426;
+    height: 52;
+    gap: 12;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.6%;
+
+}
+
+.quote-btn{
+    background-color: #2B3990;
+    color: #ffff;
+    width: 189px;
+    height: 52px;
+    border-radius: 10px;
+    gap: 4px;
+    padding: 1rem;
+}
+
+.specs-btn{
+    background-color: #E1E3E8;
+    color: #262A2E;
+    width: 185px;
+    height: 55px;
+    border-radius: 10px;
+    gap: 4px;
+    padding: 1rem;
+}
